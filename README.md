@@ -436,7 +436,7 @@ API Docs:  http://localhost:8000/docs
 
 **Himanshu Tapde** — AI/ML & Data Science
 
-[![GitHub](https://img.shields.io/badge/GitHub-Himanshu431-coder-181717?style=flat-square&logo=github)](https://github.com/Himanshu431-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-Himanshu431--coder-181717?style=flat-square&logo=github)](https://github.com/Himanshu431-coder)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-HimanshuML24-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/HimanshuML24)
 
 </div>
