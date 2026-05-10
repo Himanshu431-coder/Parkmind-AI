@@ -368,7 +368,7 @@ test_chat_returns_response           PASSED ✅
 
 ### 1. Clone
 ```bash
-git clone https://github.com/Himanshu432-coder/Parkmind-AI.git
+git clone https://github.com/Himanshu431-coder/Parkmind-AI.git
 cd Parkmind-AI
 ```
 
